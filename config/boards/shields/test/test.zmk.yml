@@ -1,0 +1,8 @@
+file_format: "1"
+id: test
+name: Test Keyboard
+type: shield
+url: https://github.com/Dainternetdude/zmk-config/
+requires: [nice_nano_v2]
+features:
+  - keys

@@ -1,0 +1,6 @@
+if SHIELD_TEST
+
+config BOARD_TEST
+    default "Test Keyboard"
+
+endif
