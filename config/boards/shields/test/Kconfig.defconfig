@@ -1,6 +1,6 @@
 if SHIELD_TEST
 
-config BOARD_TEST
+config ZMK_KEYBOARD_NAME
     default "Test Keyboard"
 
 endif
