@@ -12,7 +12,7 @@
     &kp Q   &kp W   &kp E   &kp R
     &kp A   &kp S   &kp D   &kp F
     &kp Z   &kp X   &kp C   &kp V
-    &kp SPACE &kp ESC &kp RET    &kp DOT
+    &kp SPACE &kp ESC &kp RET
             >;
         };
     };
